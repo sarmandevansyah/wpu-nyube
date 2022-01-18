@@ -4,6 +4,9 @@ RENCANA KONTEN
   *ES6
   *Framework Javascript
   *Struktur Data Dasar
+   ^Rectangular
+   ^React
   
 - CSS
 - HTML
+- Python
