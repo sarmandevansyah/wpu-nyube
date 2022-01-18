@@ -1,0 +1,3 @@
+WPU PERCOBAAN GITHUB 1
+- Cara membuat akun github
+- Cara upload repo pada github
