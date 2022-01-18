@@ -2,4 +2,4 @@ WPU PERCOBAAN GITHUB 1
 - Cara membuat akun github
 - Cara upload repo pada github
 - Membuat vlog
-- Kolaborasi lebih banyak lagi
+
